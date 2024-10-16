@@ -1,5 +1,5 @@
 
-# Comic Book E-commerce Store Backend
+# Backend Store 
 
 This repository contains the backend implementation for a Nodejs-based comic book e-commerce store. It handles the inventory management of comic books and provides an API for store managers to manage the inventory and for users to browse available comic books. The backend supports CRUD operations, as well as pagination, filtering, and sorting for large datasets.
 
